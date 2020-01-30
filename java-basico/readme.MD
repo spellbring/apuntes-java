@@ -1,6 +1,6 @@
 # JAVA BÁSICO
 
-# Características de java
+# Caracterícas de java
 
 * Es un lenguaje de programación que apareció para los años 90
 
